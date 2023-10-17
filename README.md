@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on absolutely anything
 - 🤔 I’m looking for help with getting a RASP weather modeling rig working for Ireland
 - 💬 Ask me about paragliding
-- 📫 How to reach me: martin_mcinerney@live.ie
 - ⚡ Fun fact: array indices should start from -1
